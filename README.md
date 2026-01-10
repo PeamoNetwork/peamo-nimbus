@@ -1,9 +1,9 @@
-# Nimbus
-## Pretendo account manager for the 3DS
+# Peamo Nimbus
+## Peamo account manager for the 3DS
 
 ## Usage
 
-1. Grab the latest app and IPS patches from the [Releases](https://github.com/PretendoNetwork/nimbus/releases) page
+1. Grab the latest app and IPS patches from the [Releases](https://github.com/PeamoNetwork/nimbus/releases) page
 2. Extract to the root of your 3DS SD card
 3. Install the Nimbus homebrew using FBI (or FBI Reloaded) if using the CIA build
 4. Run the Nimbus homebrew and select either to use a Pretendo or Nintendo account
