@@ -1,6 +1,6 @@
 BasicInfo:
-  Title                   : "nimbus"
-  ProductCode             : "nimbus"
+  Title                   : "nimbus-peamo"
+  ProductCode             : "nimbus-peamo"
   Logo                    : Homebrew # Nintendo / Licensed / Distributed / iQue / iQueForSystem
 
 RomFs:
@@ -8,7 +8,7 @@ RomFs:
 
 TitleInfo:
   Category                : Application
-  UniqueId                : 0xD40D2
+  UniqueId                : 0xf9c7be
 
 Option:
   UseOnSD                 : true # true if App is to be installed to SD
@@ -162,4 +162,5 @@ SystemControlInfo:
   # <module name>:<module titleid>
   Dependency: 
     gsp: 0x0004013000001c02
+
     hid: 0x0004013000001d02
