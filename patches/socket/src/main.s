@@ -89,9 +89,9 @@ start_replacements_addr equ 0x131088
 		.asciiz "nncs2.app.nintendowifi.net"
 
 	nncs1_pretendo_name:
-		.asciiz "nncs1.app.ixchats.com"
+		.asciiz "nncs1.app.ixchats.site"
 
 	nncs2_pretendo_name:
-		.asciiz "nncs2.app.ixchats.com"
+		.asciiz "nncs2.app.ixchats.site"
 
 .close

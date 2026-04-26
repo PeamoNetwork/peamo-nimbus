@@ -35,5 +35,5 @@ set_base_account_url equ 0x10ed48
 
     .align 4
     unofficial_url:
-      .asciiz "https://account.ixchats.com/v1/api/"
+      .asciiz "https://account.ixchats.site/v1/api/"
   .endarea
